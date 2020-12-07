@@ -1,2 +1,2 @@
 # CLAPI
-A cross between an API and a CLI. In beta stage.
+A cross between an API and a CLI written in Ruby. In beta stage.
