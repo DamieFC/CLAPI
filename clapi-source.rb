@@ -14,7 +14,7 @@ class clapi
 			puts "The term CLAPI comes from combining API with CLI"
 			puts clapiprompt
 		elsif response == "Banana" || "banana"
-			puts "I'm a bananananananana!!!! "
+			puts "I'm a bananananananana!!!! Bananas are not exactly my favorite fruit."
 			puts clapiprompt
 		elsif response == "Potato" || "potato"
 			puts "They're great for sending to Mars. They taste terrible"
